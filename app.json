@@ -24,6 +24,7 @@
       }
     },
     "web": {
+      "bundle": "web",
       "favicon": "./assets/favicon.png"
     }
   }
